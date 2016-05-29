@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MySQL Controller</string>
+
+
+    <string name="title_activity_details_activity1">Podrobnosti</string>
+    <string name="title_activity_show_all_details">Pregled</string>
+    <string name="title_activity_create_new">Ustvari nov vnos</string>
+    <string name="title_activity_show_all_details_no_connection">Brez povezave</string>
+
+    <string name="action_settings">Nastavitve</string>
+    <string name="no_connection">Ni povezave</string>
+    <string name="welcome">Pozdravljeni!</string>
+
+
+    <string name="alertDialogTitle">Izbriši zapis</string>
+    <string name="alertDialogMessage">Ste prepričani? Podatkov po
+        izbrisu ni mogoče obnoviti.</string>
+    <string name="alertDialogConfirmation">Izbriši!</string>
+    <string name="alertDialogCancel">Prekini</string>
+</resources>
